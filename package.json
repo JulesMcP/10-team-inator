@@ -1,0 +1,26 @@
+{
+  "name": "10-team-inator",
+  "version": "1.0.0",
+  "description": "Bootcamp Challenge #10 OOP: Team Profile Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulesMcP/10-team-inator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulesMcP/10-team-inator/issues"
+  },
+  "homepage": "https://github.com/JulesMcP/10-team-inator#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
